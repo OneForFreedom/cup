@@ -26,3 +26,18 @@ I started with the additions of tic tacs! I.. I.. I. mean marshmallows! They sti
 
 TT : 1 HR
 TTT : 2.5 HRS
+
+## Finished adding marshmallows!
+I spelt marshmellows wrong, I defo did. Oh well.
+
+I finished making the marshmellow bit! It's pretty cool! I'll have a render of it down below asw!
+
+I had to rotate each marshmellow :sob: It was well worth the effort though!
+
+<img width="634" height="335" alt="image" src="https://github.com/user-attachments/assets/193fdd80-51ce-4505-b02c-84dc5fe0da32" />
+
+<img width="656" height="587" alt="image" src="https://github.com/user-attachments/assets/1249d215-fd21-4ffb-9e48-3f3d6b5c65f4" />
+
+TT: 2 HRS
+
+TTT: 4.5 HRS
