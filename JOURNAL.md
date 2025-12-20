@@ -28,9 +28,7 @@ TT : 1 HR
 TTT : 2.5 HRS
 
 ## Finished adding marshmallows!
-I spelt marshmellows wrong, I defo did. Oh well.
-
-I finished making the marshmellow bit! It's pretty cool! I'll have a render of it down below asw!
+I finished making the marshmallow bit! It's pretty cool! I'll have a render of it down below asw!
 
 I had to rotate each marshmellow :sob: It was well worth the effort though!
 
@@ -45,3 +43,12 @@ TTT: 4.5 HRS
 ### MADE A BOWL!!!
 
 <img width="424" height="299" alt="image" src="https://github.com/user-attachments/assets/57953cd1-4917-4c9e-9567-8760836fdd9b" />
+
+## Finished a bowl!
+Cool bowl with big marshmallows!! This took me 30 mins to prep and serve!
+
+<img width="734" height="546" alt="image" src="https://github.com/user-attachments/assets/966a5301-a23b-4c82-ab68-90ea46cf5852" />
+
+TT: 30 MIN
+
+TTT: 5 HRS
