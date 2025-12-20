@@ -54,3 +54,14 @@ TT: 30 MIN
 TTT: 5 HRS
 
 I'd say we move onto something more.. Melt in your mouth...
+
+## FLAKE 99!
+I made a flake 99 chocolate! Apparently it doesn't melt! Ts took me 1.5 hours because i had to spend 5 seconds at each sketch line because it kept freezing. I had to restart fusion once, but luckily fusion had kept a recovery drive, although I had to start again from halfway when I was nearly done :P
+
+<img width="806" height="583" alt="image" src="https://github.com/user-attachments/assets/9e931198-bdde-4bf4-bc2e-d7ac1b544b0e" />
+
+<img width="405" height="434" alt="image" src="https://github.com/user-attachments/assets/6ce676d3-0b27-45fd-86ba-6be614fbecff" />
+
+TT : 1.5 HRS
+
+TTT: 6.5 HRS
