@@ -49,8 +49,7 @@ Cool bowl with big marshmallows!! This took me 30 mins to prep and serve!
 
 <img width="734" height="546" alt="image" src="https://github.com/user-attachments/assets/966a5301-a23b-4c82-ab68-90ea46cf5852" />
 
-TT: 30 MIN
-
+TT: 0.5 HRS
 TTT: 5 HRS
 
 I'd say we move onto something more.. Melt in your mouth...
@@ -65,3 +64,12 @@ I made a flake 99 chocolate! Apparently it doesn't melt! Ts took me 1.5 hours be
 TT : 1.5 HRS
 
 TTT: 6.5 HRS
+
+## 54 DOLLARS??!?!
+I made a boojie looking plate, the type that would be used in a fancy restaurant. This took me once again, 30 mins to make.
+
+<img width="722" height="508" alt="image" src="https://github.com/user-attachments/assets/4762fcef-3e29-4ae7-b03e-440d69dc674c" />
+
+TT : 0.5 HRS
+
+TTT: 7 HRS
