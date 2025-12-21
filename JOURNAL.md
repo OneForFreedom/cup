@@ -82,6 +82,11 @@ I did it quite fast (15 min)
 
 <img width="1411" height="647" alt="image" src="https://github.com/user-attachments/assets/563e4185-4cb7-409e-b517-0b0bef5b7cc5" />
 
+You see, some bodies are missing, thats because they're merged with one part
+
+<img width="204" height="74" alt="image" src="https://github.com/user-attachments/assets/686eaaee-88ce-40a7-bed8-01130b58d9b8" />
+
+
 TT: 0.25 HRS
 
 TTT : 7.45 HRS
