@@ -75,3 +75,13 @@ TT : 0.5 HRS
 TTT: 7 HRS
 
 I'm gonna make a travel mug! It should look cool hopefully!
+
+## Merged!!
+I merged all 44 marshmallows into one body, that means they all had lost their colour, so I had to recolour every. single. face. 
+I did it quite fast (15 min)
+
+<img width="1411" height="647" alt="image" src="https://github.com/user-attachments/assets/563e4185-4cb7-409e-b517-0b0bef5b7cc5" />
+
+TT: 0.25 HRS
+
+TTT : 7.45 HRS
