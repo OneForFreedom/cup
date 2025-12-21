@@ -73,3 +73,5 @@ I made a boojie looking plate, the type that would be used in a fancy restaurant
 TT : 0.5 HRS
 
 TTT: 7 HRS
+
+I'm gonna make a travel mug! It should look cool hopefully!
