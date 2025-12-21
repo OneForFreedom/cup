@@ -92,10 +92,12 @@ TT: 0.25 HRS
 TTT : 7.25 HRS
 
 ## Made a travel mug!
-I made a cool travel mug! I finished the mug itself, now all I got to do is add some detail to the cap itself!
+I made a cool travel mug! I finished both teh mug and the cap! It's looking awesome!
 
 <img width="739" height="584" alt="image" src="https://github.com/user-attachments/assets/d47886bc-5cab-4a5f-bbc0-2d345f742344" />
 
-TT : 0.75 HRS
+<img width="454" height="400" alt="image" src="https://github.com/user-attachments/assets/d282cf7a-9865-4753-9f14-b0454c55f13b" />
 
-TTTT: 8 HRS
+TT : 1.25 HRS
+
+TTTT: 8.5 HRS
