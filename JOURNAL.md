@@ -90,3 +90,12 @@ You see, some bodies are missing, thats because they're merged with one part
 TT: 0.25 HRS
 
 TTT : 7.25 HRS
+
+## Made a travel mug!
+I made a cool travel mug! I finished the mug itself, now all I got to do is add some detail to the cap itself!
+
+<img width="739" height="584" alt="image" src="https://github.com/user-attachments/assets/d47886bc-5cab-4a5f-bbc0-2d345f742344" />
+
+TT : 0.75 HRS
+
+TTTT: 8 HRS
