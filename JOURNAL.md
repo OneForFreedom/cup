@@ -89,4 +89,4 @@ You see, some bodies are missing, thats because they're merged with one part
 
 TT: 0.25 HRS
 
-TTT : 7.45 HRS
+TTT : 7.25 HRS
