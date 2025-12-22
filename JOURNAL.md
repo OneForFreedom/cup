@@ -101,3 +101,5 @@ I made a cool travel mug! I finished both the mug and the cap! It's looking awes
 TT : 1.25 HRS
 
 TTTT: 8.5 HRS
+
+For my last bit of cad, for this project, I've decided to make a slice of cake!
