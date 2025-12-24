@@ -102,4 +102,13 @@ TT : 1.25 HRS
 
 TTTT: 8.5 HRS
 
-For my last bit of cad, for this project, I've decided to make a slice of cake!
+## Cake!
+For my last bit of cad, for this project, I've decided to make a slice of cake! It's a kiwi cake!
+
+<img width="936" height="728" alt="image" src="https://github.com/user-attachments/assets/d65e775b-ed80-4fac-bae7-00404c8c7e55" />
+
+TT : 2H
+
+TTT: 10.5 HRS
+
+[Now I'm gonna transfer everything over to onshape, and then I'll make some renders, then finally just download everything and submit!]
