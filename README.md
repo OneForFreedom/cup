@@ -39,3 +39,5 @@ ___copy and paste this into your broswer! If it doens't work, then reload!___
 <img width="649" height="577" alt="Screenshot 2025-12-24 001041" src="https://github.com/user-attachments/assets/e311fc87-0cf9-4e2e-a847-bc36d316dd0b" />
 
 <img width="715" height="646" alt="Screenshot 2025-12-24 001034" src="https://github.com/user-attachments/assets/75d14333-25d5-4450-b48e-d1c992c1b11b" />
+
+## Physical Models!
